@@ -1,0 +1,2209 @@
+<sphinx_search xmlns='http://mlat.uzh.ch/2.0'>
+<query>Abia</query>
+<query_expanded>abia</query_expanded>
+<replaced_phrases>()</replaced_phrases>
+<total>149</total>
+<offset>0</offset>
+<limit>149</limit>
+<time>0.001</time>
+
+<words>
+	<word>abia</word>
+</words>
+<lemmatised></lemmatised>
+<verses_only>1</verses_only>
+<index_type>s</index_type>
+<search_results xmlns="http://mlat.uzh.ch/2.0" after_phrases_filtered="149" difference="0">
+  <search_result n="1">
+    <pid text_idno="9186" url="https://mlat.uzh.ch/browser?text=9186%26focus=9186:4;6">9186:4;6,1</pid>
+    <author cc_idno="1573" url="https://mlat.uzh.ch/browser?path=1573">Ado Viennensis</author>
+    <work cc_idno="4162" url="https://mlat.uzh.ch/browser?path=4162">Chronicon</work>
+    <decisive_year>875</decisive_year>
+    <result>
+      <position>Chronicon - AETAS QUARTA A DAVIDIS REGNO AD TRANSMIGRATIONEM HEBRAEORUM BABYLONIAM.</position>
+      <text>
+        <sentence parent_pid="9186:4;6" n="1">[3885] Asa, filius Abia, annis quadraginta et uno.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="2">
+    <pid text_idno="9186" url="https://mlat.uzh.ch/browser?text=9186%26focus=9186:4;5">9186:4;5,1</pid>
+    <author cc_idno="1573" url="https://mlat.uzh.ch/browser?path=1573">Ado Viennensis</author>
+    <work cc_idno="4162" url="https://mlat.uzh.ch/browser?path=4162">Chronicon</work>
+    <decisive_year>875</decisive_year>
+    <result>
+      <position>Chronicon - AETAS QUARTA A DAVIDIS REGNO AD TRANSMIGRATIONEM HEBRAEORUM BABYLONIAM.</position>
+      <text>
+        <sentence parent_pid="9186:4;5" n="1">[3882] Abia, filius Roboam, annis tribus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="3">
+    <pid text_idno="8681" url="https://mlat.uzh.ch/browser?text=8681%26focus=8681:4;2">8681:4;2,28</pid>
+    <author cc_idno="1047" url="https://mlat.uzh.ch/browser?path=1047">Alcuinus</author>
+    <work cc_idno="3658" url="https://mlat.uzh.ch/browser?path=3658">Interpretationes nominum Hebraicorum</work>
+    <decisive_year>804</decisive_year>
+    <result>
+      <position>Interpretationes nominum Hebraicorum - INTERPRETATIO MORALIS.</position>
+      <text>
+        <sentence parent_pid="8681:4;2" n="28"> In Abia, ut fratres simus, habentes
+Patrem Deum; et haeredes simus Dei, cohaeredes
+
+quidem Christi.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="4">
+    <pid text_idno="8681" url="https://mlat.uzh.ch/browser?text=8681%26focus=8681:3;2">8681:3;2,34</pid>
+    <author cc_idno="1047" url="https://mlat.uzh.ch/browser?path=1047">Alcuinus</author>
+    <work cc_idno="3658" url="https://mlat.uzh.ch/browser?path=3658">Interpretationes nominum Hebraicorum</work>
+    <decisive_year>804</decisive_year>
+    <result>
+      <position>Interpretationes nominum Hebraicorum - INTERPRETATIO ALLEGORICA.</position>
+      <text>
+        <sentence parent_pid="8681:3;2" n="34"> In Abia Pater Dominus, qui ait: Nolite vocare
+vobis patrem in terra; unus enim est Pater noster 
+[Edit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="5">
+    <pid text_idno="8681" url="https://mlat.uzh.ch/browser?text=8681%26focus=8681:2;2">8681:2;2,23</pid>
+    <author cc_idno="1047" url="https://mlat.uzh.ch/browser?path=1047">Alcuinus</author>
+    <work cc_idno="3658" url="https://mlat.uzh.ch/browser?path=3658">Interpretationes nominum Hebraicorum</work>
+    <decisive_year>804</decisive_year>
+    <result>
+      <position>Interpretationes nominum Hebraicorum - INTERPRETATIO LITTERALIS.</position>
+      <text>
+        <sentence parent_pid="8681:2;2" n="23"> Abia, Pater Dominus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="6">
+    <pid text_idno="9034" url="https://mlat.uzh.ch/browser?text=9034%26focus=9034:5.17;2">9034:5.17;2,3</pid>
+    <author cc_idno="1531" url="https://mlat.uzh.ch/browser?path=1531">Angelomus Luxovensis</author>
+    <work cc_idno="4011" url="https://mlat.uzh.ch/browser?path=4011">Enarrationes in libros Regum</work>
+    <decisive_year>895</decisive_year>
+    <result>
+      <position>Enarrationes in libros Regum - IN LIBRUM QUARTUM. - CAPUT XVIII.</position>
+      <text>
+        <sentence parent_pid="9034:5.17;2" n="3"> Nomen matris
+ejus Abia, filia Zachariae.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="7">
+    <pid text_idno="15431" url="https://mlat.uzh.ch/browser?text=15431%26focus=15431:2;2">15431:2;2,4</pid>
+    <author cc_idno="30" url="https://mlat.uzh.ch/browser?path=30">Anonymus</author>
+    <work cc_idno="15771" url="https://mlat.uzh.ch/browser?path=15771">De paenitentia regum et de investitura regali collectanea</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>De paenitentia regum et de investitura regali collectanea - De investitura regali.</position>
+      <text>
+        <sentence parent_pid="15431:2;2" n="4"> Qui Abia eiusdem regis David temporibus summus erat
+				sacerdos ab ipso rege constitutus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="8">
+    <pid text_idno="15431" url="https://mlat.uzh.ch/browser?text=15431%26focus=15431:2;2">15431:2;2,3</pid>
+    <author cc_idno="30" url="https://mlat.uzh.ch/browser?path=30">Anonymus</author>
+    <work cc_idno="15771" url="https://mlat.uzh.ch/browser?path=15771">De paenitentia regum et de investitura regali collectanea</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>De paenitentia regum et de investitura regali collectanea - De investitura regali.</position>
+      <text>
+        <sentence parent_pid="15431:2;2" n="3"> In quarum distributione sortium
+				etiam Abia, de cuius vice et genere Zacharias, pater Iohannis baptistę, oritur, octavo
+				loco positus invenitur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="9">
+    <pid text_idno="10726" url="https://mlat.uzh.ch/browser?text=10726%26focus=10726:1;14">10726:1;14,18</pid>
+    <author cc_idno="2127" url="https://mlat.uzh.ch/browser?path=2127">Anselmus Laudunensis</author>
+    <work cc_idno="5688" url="https://mlat.uzh.ch/browser?path=5688">Ennarrationes in Matthaeum</work>
+    <decisive_year>1117</decisive_year>
+    <result>
+      <position>Ennarrationes in Matthaeum - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="10726:1;14" n="18">
+Ipse est iterum Abia, id est pater Dominus, 
+quia ipse est qui dicit: Ego ero illi in patrem , quia tanquam Dominus omnia fecit quaecunque
+voluit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="10">
+    <pid text_idno="10726" url="https://mlat.uzh.ch/browser?text=10726%26focus=10726:1;13">10726:1;13,9</pid>
+    <author cc_idno="2127" url="https://mlat.uzh.ch/browser?path=2127">Anselmus Laudunensis</author>
+    <work cc_idno="5688" url="https://mlat.uzh.ch/browser?path=5688">Ennarrationes in Matthaeum</work>
+    <decisive_year>1117</decisive_year>
+    <result>
+      <position>Ennarrationes in Matthaeum - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="10726:1;13" n="9"> Sequitur Abia, id est pater
+Dominus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="11">
+    <pid text_idno="7033" url="https://mlat.uzh.ch/browser?text=7033%26focus=7033:1">7033:1,2</pid>
+    <author cc_idno="971" url="https://mlat.uzh.ch/browser?path=971">Aquilinus Juvencus</author>
+    <work cc_idno="478" url="https://mlat.uzh.ch/browser?path=478">Historia evangelica</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Historia evangelica - </position>
+      <text>
+        <sentence parent_pid="7033:1" n="2">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Lucas uberius describit praelia Christi,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Jure sacer vitulus, qui munia fatur Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="12">
+    <pid text_idno="8228" url="https://mlat.uzh.ch/browser?text=8228%26focus=8228:201;7">8228:201;7,2</pid>
+    <author cc_idno="869" url="https://mlat.uzh.ch/browser?path=869">Auctor incertus</author>
+    <work cc_idno="3222" url="https://mlat.uzh.ch/browser?path=3222">Breviarium</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Breviarium - </position>
+      <text>
+        <sentence parent_pid="8228:201;7" n="2"> Fuitque nomen filii ejus
+primogeniti Joel: et nomen secundi Abia, judicum
+in Bersabee.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="13">
+    <pid text_idno="11101" url="https://mlat.uzh.ch/browser?text=11101%26focus=11101:5.9;2">11101:5.9;2,23</pid>
+    <author cc_idno="869" url="https://mlat.uzh.ch/browser?path=869">Auctor incertus</author>
+    <work cc_idno="6061" url="https://mlat.uzh.ch/browser?path=6061">Excerptiones allegoricae</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Excerptiones allegoricae - LIBER QUARTUS. Tractat de historia ab Adam usque ad Christum; continet tredecim capitula. - CAP. IX.</position>
+      <text>
+        <sentence parent_pid="11101:5.9;2" n="23"> Igitur post Salomonem regnavit
+in Judaea Roboam: et post Roboam Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="14">
+    <pid text_idno="11101" url="https://mlat.uzh.ch/browser?text=11101%26focus=11101:5.4;2">11101:5.4;2,1</pid>
+    <author cc_idno="869" url="https://mlat.uzh.ch/browser?path=869">Auctor incertus</author>
+    <work cc_idno="6061" url="https://mlat.uzh.ch/browser?path=6061">Excerptiones allegoricae</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Excerptiones allegoricae - LIBER QUARTUS. Tractat de historia ab Adam usque ad Christum; continet tredecim capitula. - CAP. IV.</position>
+      <text>
+        <sentence parent_pid="11101:5.4;2" n="1">Saul, David, Salomon, Roboam, Abia, Asa, Josaphat,
+Joran, Azarias, Athalia, Joas, Amasia, Ozias,
+Joathas, Achas, Ezechias, Manasses, Amon, Josias,
+Joatham, Joachim, Sedecias.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="15">
+    <pid text_idno="8714" url="https://mlat.uzh.ch/browser?text=8714%26focus=8714:1.9;13">8714:1.9;13,8</pid>
+    <author cc_idno="1463" url="https://mlat.uzh.ch/browser?path=1463">Auctor incertus (Alcuinus?)</author>
+    <work cc_idno="3691" url="https://mlat.uzh.ch/browser?path=3691">Disputatio puerorum</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Disputatio puerorum - MONITUM PRAEVIUM. - CAPUT IX.--DE GRADIBUS TOTIUS ECCLESIAE DIGNITATIS.</position>
+      <text>
+        <sentence parent_pid="8714:1.9;13" n="8"> Sic
+enim a sacerdotibus incipit: Fuit in diebus Herodis
+regis sacerdos quidam nomine Zacharias de vice Abia
+et uxor ejus de filiabus Aaron, nomen Elisabeth .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="16">
+    <pid text_idno="9858" url="https://mlat.uzh.ch/browser?text=9858%26focus=9858:2;14">9858:2;14,10</pid>
+    <author cc_idno="870" url="https://mlat.uzh.ch/browser?path=870">Auctores varii</author>
+    <work cc_idno="4829" url="https://mlat.uzh.ch/browser?path=4829">Annales Hildesheimenses Quedlinburgenses et Lamberti</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Annales Hildesheimenses Quedlinburgenses et Lamberti - ANNALES QUEDLINBURGENSES.</position>
+      <text>
+        <sentence parent_pid="9858:2;14" n="10"> Abia annis
+3. Pontifex Abymelech insignis habetur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="17">
+    <pid text_idno="9858" url="https://mlat.uzh.ch/browser?text=9858%26focus=9858:3;12">9858:3;12,10</pid>
+    <author cc_idno="870" url="https://mlat.uzh.ch/browser?path=870">Auctores varii</author>
+    <work cc_idno="4829" url="https://mlat.uzh.ch/browser?path=4829">Annales Hildesheimenses Quedlinburgenses et Lamberti</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Annales Hildesheimenses Quedlinburgenses et Lamberti - LAMBERTI ANNALES.</position>
+      <text>
+        <sentence parent_pid="9858:3;12" n="10">
+Abia annis 3. Pontifex Abimelech insignis habetur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="18">
+    <pid text_idno="8525" url="https://mlat.uzh.ch/browser?text=8525%26focus=8525:19;2">8525:19;2,1</pid>
+    <author cc_idno="870" url="https://mlat.uzh.ch/browser?path=870">Auctores varii</author>
+    <work cc_idno="3508" url="https://mlat.uzh.ch/browser?path=3508">Homiliae de Sanctis</work>
+    <decisive_year>10000</decisive_year>
+    <result>
+      <position>Homiliae de Sanctis - HOMILIA XIX. IN VIGILIA BEATI JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="8525:19;2" n="1">Fuit in diebus Herodis regis Judaeae sacerdos quidam
+nomine Zacharias, de vice Abia, et uxor illi de
+Filiabus Aaron, et nomen ejus Elizabeth, etc. .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="19">
+    <pid text_idno="7304" url="https://mlat.uzh.ch/browser?text=7304%26focus=7304:8.4;2">7304:8.4;2,2</pid>
+    <author cc_idno="900" url="https://mlat.uzh.ch/browser?path=900">Augustinus Hipponensis</author>
+    <work cc_idno="746" url="https://mlat.uzh.ch/browser?path=746">De consensu Evangelistarum</work>
+    <decisive_year>430</decisive_year>
+    <result>
+      <position>De consensu Evangelistarum - CAPUT V.-- - 17.</position>
+      <text>
+        <sentence parent_pid="7304:8.4;2" n="2">Fuit in diebus Herodis
+regis Judaeae sacerdos quidam nomine Zacharias, de
+vice Abia: et uxor illi de filiabus Aaron, et nomen ejus
+Elisabeth.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="20">
+    <pid text_idno="7304" url="https://mlat.uzh.ch/browser?text=7304%26focus=7304:121.1;2">7304:121.1;2,1</pid>
+    <author cc_idno="900" url="https://mlat.uzh.ch/browser?path=900">Augustinus Hipponensis</author>
+    <work cc_idno="746" url="https://mlat.uzh.ch/browser?path=746">De consensu Evangelistarum</work>
+    <decisive_year>430</decisive_year>
+    <result>
+      <position>De consensu Evangelistarum - CAPUT IX. - 10.</position>
+      <text>
+        <sentence parent_pid="7304:121.1;2" n="1">
+ Sic ergo narrare Lucas incipit Evangelium: Fuit in diebus Herodis, regis Judaeae, sacerdos quidam
+nomine Zacharias, de vice Abia; et uxor illi de filiabus
+
+Aaron, et nomen ejus Elisabeth, 
+ etc., usque ad eum locum
+ubi ait, Ut cessavit autem loqui, dixit ad Simonem:
+Duc in altum, et laxate retia vestra in capturam .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="21">
+    <pid text_idno="8459" url="https://mlat.uzh.ch/browser?text=8459%26focus=8459:3.2;3">8459:3.2;3,1</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3442" url="https://mlat.uzh.ch/browser?path=3442">Allegorica expositio in Samuelem</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Allegorica expositio in Samuelem - LIBER SECUNDUS - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8459:3.2;3" n="1">Fuitque nomen filii ejus primogeniti Joel, etc. Joel
+incipiens vel fuit Dei, Abia pater fuit, Bersabee puteus
+juramenti dicitur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="22">
+    <pid text_idno="8446" url="https://mlat.uzh.ch/browser?text=8446%26focus=8446:2.66;63">8446:2.66;63,1</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3429" url="https://mlat.uzh.ch/browser?path=3429">De ratione temporum</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>De ratione temporum - INCIPIT LIBER. - CAPUT LXVI.</position>
+      <text>
+        <sentence parent_pid="8446:2.66;63" n="1">[A.  M. Hebr. 3031. Sept. 4367.] Asa filius Abia
+annis XLI.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="23">
+    <pid text_idno="8446" url="https://mlat.uzh.ch/browser?text=8446%26focus=8446:2.66;62">8446:2.66;62,1</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3429" url="https://mlat.uzh.ch/browser?path=3429">De ratione temporum</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>De ratione temporum - INCIPIT LIBER. - CAPUT LXVI.</position>
+      <text>
+        <sentence parent_pid="8446:2.66;62" n="1">[A.  M. Hebr. 2990. Sept. 4326.] Abia filius Roboam
+annis III.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="24">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:38;7">8509:38;7,2</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA XIII. IN VIGILIA SANCTI JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="8509:38;7" n="2"> Claret quidem omnibus
+quia jam redeunte ex ordine septimana vicis suae,
+quae ei de vice Abia contigerat, templum ministraturus
+
+intravit; sed forte aliquibus obscurum est,
+quia Scriptura tacere videtur quo haec sint anni tempore
+gesta.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="25">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:38;4">8509:38;4,25</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA XIII. IN VIGILIA SANCTI JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="8509:38;4" n="25"> In quarum distributione sortium,
+Abia, de cujus vice et genere Zacharias oritur,
+octavo loco positus invenitur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="26">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:38;4">8509:38;4,15</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA XIII. IN VIGILIA SANCTI JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="8509:38;4" n="15">
+Si vero fraternitatem vestram audire delectat
+quis sit Abia, de cujus vice Zacharias genus duxisse
+perhibetur, hic temporibus David regis summus erat
+sacerdos.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="27">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:38;4">8509:38;4,1</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA XIII. IN VIGILIA SANCTI JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="8509:38;4" n="1">Fuit enim sacerdos, sicut ex lectione evangelica
+audivimus, nomine Zacharias, de vice Abia, et
+uxor illi de filiabus Aaron, et nomen ejus Elisabeth.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="28">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:104;3">8509:104;3,83</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA LV. IN NATALI DIVAE MARIAE VIRGINIS.</position>
+      <text>
+        <sentence parent_pid="8509:104;3" n="83"> In Abia, ut charitatem fraternitatis
+invicem diligentes , unum patrem
+habeamus Dominum in coelis, qui nos voluntarie genuit
+verbo veritatis, ut simus initium aliquod creaturae
+ejus , et benedictionem haereditate possideamus,
+et gloriemur in spe gloriae filiorum Dei .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="29">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:104;3">8509:104;3,29</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA LV. IN NATALI DIVAE MARIAE VIRGINIS.</position>
+      <text>
+        <sentence parent_pid="8509:104;3" n="29"> In Abia pater Dominus, qui
+ait: Nolite vocare vobis patrem in terra; unus est
+enim Pater vester, qui in coelis est .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="30">
+    <pid text_idno="8509" url="https://mlat.uzh.ch/browser?text=8509%26focus=8509:104;3">8509:104;3,2</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3492" url="https://mlat.uzh.ch/browser?path=3492">Homiliae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA LV. IN NATALI DIVAE MARIAE VIRGINIS.</position>
+      <text>
+        <sentence parent_pid="8509:104;3" n="2">
+At sciendum est quia horum omnium nomina
+allegorici et moralis sensus plene in se contineant
+intellectus, Abraham pater multarum gentium, Isaac
+gaudium, 
+ Jacob supplantator, Judas confessio interpretatur;
+Phares divisio, Zara oriens, Esron sagittam
+videns, Thamar palma dicitur; Aram electus, Aminadab populus spontaneus, 
+ Naason augur fortis, Salmon sensibilis 
+ accipitur; Boos in ipso fortitudo, 
+Raab lata, Obeth serviens, Ruth festinans subauditur;
+Jesse incendium, David manu fortis, vel desiderabilis, 
+Salomon pacificus, Urias lux mea Deus, Bethsabee filia juramenti 
+ subintelligitur; Roboam latitudo
+populi, Abia pater Dominus, Asa tollens, Josaphat Dominus judicavit 
+ exprimitur; Joram excelsus, Ozias robustus Domini 
+ dicitur; Joathan perfectus, Achas apprehendens 
+ dicitur; Ezechias fortitudo Domini, 
+Manasses obliviosus, Amon fidelis, Josias salus Domini 
+interpretatur; Jechonias praeparatio Domini, 
+Salathiel petitio mea Deus, Zorobabel iste magister, 
+Abiud pater meus iste interpretatur; Eliacim Dei resurrectio, 
+Azor adjutus, Sadoc justus, Joachim frater
+meus subintelligitur; Eliud Deus meus, Eleazar Deus adjutor, 
+ Mathan donum, Jacob supplantator
+exprimitur: Joseph appositus, sive auctus, Maria illuminatrix, 
+ sive stella maris, Jesus salvator, sive salutaris, 
+ Christus unctus interpretatur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="31">
+    <pid text_idno="8470" url="https://mlat.uzh.ch/browser?text=8470%26focus=8470:3.1;7">8470:3.1;7,2</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3453" url="https://mlat.uzh.ch/browser?path=3453">In Evangelium S. Lucae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>In Evangelium S. Lucae - LIBER PRIMUS. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8470:3.1;7" n="2"> Non nova nunc sorte lectus est, cum
+incessum esset adolendum, sed prisca tunc sorte
+praelectus, cum primo ex ordine sui pontificatus in
+vicem Abia succederet.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="32">
+    <pid text_idno="8470" url="https://mlat.uzh.ch/browser?text=8470%26focus=8470:3.1;2">8470:3.1;2,6</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3453" url="https://mlat.uzh.ch/browser?path=3453">In Evangelium S. Lucae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>In Evangelium S. Lucae - LIBER PRIMUS. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8470:3.1;2" n="6"> Quorum
+vices secundum ministeria sua, ut ingrederentur
+domum Dei, viginti quatuor sortibus distinxit, in
+quibus Abia familiam, de qua Zacharias ortus est,
+sors contigit octava.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="33">
+    <pid text_idno="8470" url="https://mlat.uzh.ch/browser?text=8470%26focus=8470:3.1;2">8470:3.1;2,3</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3453" url="https://mlat.uzh.ch/browser?path=3453">In Evangelium S. Lucae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>In Evangelium S. Lucae - LIBER PRIMUS. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8470:3.1;2" n="3"> Et quoniam quidem
+Aaron primi in lege pontificis, cunctis est nota dignitas,
+dicendum paucis de Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="34">
+    <pid text_idno="8470" url="https://mlat.uzh.ch/browser?text=8470%26focus=8470:3.1;2">8470:3.1;2,1</pid>
+    <author cc_idno="1397" url="https://mlat.uzh.ch/browser?path=1397">Beda</author>
+    <work cc_idno="3453" url="https://mlat.uzh.ch/browser?path=3453">In Evangelium S. Lucae</work>
+    <decisive_year>735</decisive_year>
+    <result>
+      <position>In Evangelium S. Lucae - LIBER PRIMUS. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8470:3.1;2" n="1">Fuit in diebus Herodis, regis Judaeae, sacerdos quidam
+nomine Zacharias, de vice Abia, et uxor illi de
+filiabus Aaron, et nomen ejus Elisabeth.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="35">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.9.8;2">17103:1.9.8;2,2</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Primus Regum - Caput 8</position>
+      <text>
+        <sentence parent_pid="17103:1.9.8;2" n="2"> Fuitque nomen filii eius primogeniti Ioel: et nomen secundi Abia, iudicum in Bersabee.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="36">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.11.14;2">17103:1.11.14;2,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Tertius Regum - Caput 14</position>
+      <text>
+        <sentence parent_pid="17103:1.11.14;2" n="1"> In tempore illo aegrotavit Abia filius Ieroboam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="37">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.13.7;3">17103:1.13.7;3,3</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Primus Paralipomenon - Caput 7</position>
+      <text>
+        <sentence parent_pid="17103:1.13.7;3" n="3"> Porro filii Bechor: Zamira, et Ioas, et Eliezer, et Elioenai, et Amri, et Ierimoth, et Abia, et Anathoth, et Almath: omnes hi filii Bechor.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="38">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.13.6;2">17103:1.13.6;2,21</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Primus Paralipomenon - Caput 6</position>
+      <text>
+        <sentence parent_pid="17103:1.13.6;2" n="21"> Filii Samuel: primogenitus Vasseni, et Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="39">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.13.3;2">17103:1.13.3;2,5</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Primus Paralipomenon - Caput 3</position>
+      <text>
+        <sentence parent_pid="17103:1.13.3;2" n="5"> Filius autem Salomonis, Roboam: cuius Abia filius genuit Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="40">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.13.2;3">17103:1.13.2;3,24</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Primus Paralipomenon - Caput 2</position>
+      <text>
+        <sentence parent_pid="17103:1.13.2;3" n="24">Habuit quoque Hesron uxorem Abia, quae peperit ei Assur patrem Thecuae.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="41">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.29;2">17103:1.14.29;2,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 29</position>
+      <text>
+        <sentence parent_pid="17103:1.14.29;2" n="1"> Igitur Ezechias regnare coepit, cum viginti quinque esset annorum, et viginti novem annis regnavit in Ierusalem: nomen matris eius Abia filia Zachariae.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="42">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.14;2">17103:1.14.14;2,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 14</position>
+      <text>
+        <sentence parent_pid="17103:1.14.14;2" n="1"> Dormivit autem Abia cum patribus suis, et sepelierunt eum in civitate David: regnavitque Asa filius eius pro eo, in cuius diebus quievit terra annis decem.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="43">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;4">17103:1.14.13;4,10</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;4" n="10"> Reliqua autem sermonum Abia, viarumque et operum eius, scripta sunt diligentissime in libro Addo prophetae.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="44">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;4">17103:1.14.13;4,9</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;4" n="9"> Igitur Abia, confortato imperio suo, accepit uxores quatuordecim: procreavitque viginti duos filios, et sedecim filias.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="45">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;4">17103:1.14.13;4,8</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;4" n="8"> Persecutus est autem Abia fugientem Ieroboam, et cepit civitates eius, Bethel et filias eius, et Iesana cum filiabus suis, Ephron quoque et filias eius:
+ nec valuit ultra resistere Ieroboam in diebus Abia: quem percussit Dominus, et mortuus est.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="46">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;4">17103:1.14.13;4,6</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;4" n="6"> Percussit ergo eos Abia et populus eius plaga magna: et corruerunt vulnerati ex Israel quingenta millia virorum fortium.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="47">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;4">17103:1.14.13;4,4</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;4" n="4"> Omnesque viri Iuda vociferati sunt: et ecce illis clamantibus, perterruit Deus Ieroboam, et omnem Israel qui stabat ex adverso Abia et Iuda.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="48">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;3">17103:1.14.13;3,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;3" n="1"> Stetit ergo Abia super montem Semeron, qui erat in Ephraim, et ait: Audi, Ieroboam, et omnis Israel.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="49">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;2">17103:1.14.13;2,3</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;2" n="3"> Cumque iniisset Abia certamen, et haberet bellicosissimos viros, et electorum quadringenta millia: Ieroboam instruxit econtra aciem octingenta millia virorum, qui et ipsi electi erant, et ad bella fortissimi.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="50">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.13;2">17103:1.14.13;2,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 13</position>
+      <text>
+        <sentence parent_pid="17103:1.14.13;2" n="1"> Anno octavodecimo regis Ieroboam, regnavit Abia super Iudam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="51">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.12;3">17103:1.14.12;3,2</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 12</position>
+      <text>
+        <sentence parent_pid="17103:1.14.12;3" n="2"> Et dormivit Roboam cum patribus suis, sepultusque est in civitate David: et regnavit Abia filius eius pro eo.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="52">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.14.11;5">17103:1.14.11;5,2</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Secundus Paralipomenon - Caput 11</position>
+      <text>
+        <sentence parent_pid="17103:1.14.11;5" n="2"> Post hanc quoque accepit Maacha filiam Absalom, quae peperit ei Abia, et Ethai, et Ziza, et Salomith.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="53">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.13.24;2">17103:1.13.24;2,9</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Primus Paralipomenon - Caput 24</position>
+      <text>
+        <sentence parent_pid="17103:1.13.24;2" n="9"> Exivit autem sors prima Ioiarib, secunda Iedei,
+ tertia Harim, quarta Seorim,
+ quinta Melchia, sexta Maiman,
+ septima Accos, octava Abia,
+ nona Iesua, decima Sechenia,
+ undecima Eliasib, duodecima Iacim,
+ tertiadecima Hoppha, decimaquarta Isbaab,
+ decimaquinta Belga, decimasexta Emmer,
+ decimaseptima Hezir, decimaoctava Aphses,
+ decimanona Pheteia, vigesima Hezechiel,
+ vigesima prima Iachin, vigesima secunda Gamul,
+ vigesima tertia Dalaiau, vigesima quarta Maaziau.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="54">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.16.12;2">17103:1.16.12;2,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Nehemiae - Caput 12</position>
+      <text>
+        <sentence parent_pid="17103:1.16.12;2" n="1"> Hi sunt autem sacerdotes et Levitae, qui ascenderunt cum Zorobabel filio Salathiel, et Iosue: Saraia, Ieremias, Esdras,
+ Amaria, Melluch, Hattus,
+ Sebenias, Rheum, Merimuth,
+ Addo, Genthon, Abia,
+ Miamin, Madia, Belga,
+ Semeia, et Ioiarib, Idaia, Sellum, Amoc, Helcias,
+ Idaia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="55">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:1.16.10;2">17103:1.16.10;2,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Vetus Testamentum - Liber Nehemiae - Caput 10</position>
+      <text>
+        <sentence parent_pid="17103:1.16.10;2" n="1"> Signatores autem fuerunt Nehemias, Athersatha filius Hachelai, et Sedecias,
+ Saraias, Azarias, Ieremias,
+ Pheshur, Amarias, Melchias,
+ Hattus, Sebenia, Melluch,
+ Harem, Merimuth, Obdias,
+ Daniel, Genthon, Baruch,
+ Mosollam, Abia, Miamin,
+ Maazia, Belgai, Semeia: hi sacerdotes.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="56">
+    <pid text_idno="17103" url="https://mlat.uzh.ch/browser?text=17103%26focus=17103:2.3.1;3">17103:2.3.1;3,1</pid>
+    <author cc_idno="17113" url="https://mlat.uzh.ch/browser?path=17113">Biblia</author>
+    <work cc_idno="17109" url="https://mlat.uzh.ch/browser?path=17109">Biblia Sacra iuxta Vulgatam Clementinam</work>
+    <decisive_year>400</decisive_year>
+    <result>
+      <position>Biblia Sacra iuxta Vulgatam Clementinam - Novum Testamentum - Evangelium secundum Lucam - Caput 1</position>
+      <text>
+        <sentence parent_pid="17103:2.3.1;3" n="1"> Fuit in diebus Herodis, regis Iudaeae, sacerdos quidam nomine Zacharias de vice Abia, et uxor illius de filiabus Aaron, et nomen eius Elisabeth.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="57">
+    <pid text_idno="10473" url="https://mlat.uzh.ch/browser?text=10473%26focus=10473:12;3">10473:12;3,12</pid>
+    <author cc_idno="2035" url="https://mlat.uzh.ch/browser?path=2035">Bruno Carthusianorum</author>
+    <work cc_idno="5439" url="https://mlat.uzh.ch/browser?path=5439">Expositio in Psalmos</work>
+    <decisive_year>1101</decisive_year>
+    <result>
+      <position>Expositio in Psalmos - IN PSALMUM XI.</position>
+      <text>
+        <sentence parent_pid="10473:12;3" n="12"> Et
+ne amplius loquantur vana, disperdat Dominus universa
+
+abia dolosa, et linguam magniloquam etiam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="58">
+    <pid text_idno="8863" url="https://mlat.uzh.ch/browser?text=8863%26focus=8863:1.1;10">8863:1.1;10,32</pid>
+    <author cc_idno="1504" url="https://mlat.uzh.ch/browser?path=1504">Christianus Druthmarus</author>
+    <work cc_idno="3840" url="https://mlat.uzh.ch/browser?path=3840">Expositio in Matthaeum</work>
+    <decisive_year>880</decisive_year>
+    <result>
+      <position>Expositio in Matthaeum - INCIPIT PROLOGUS. - CAPUT PRIMUM CHRISTIANI DRUTHMARI</position>
+      <text>
+        <sentence parent_pid="8863:1.1;10" n="32">Abia autem genuit Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="59">
+    <pid text_idno="8863" url="https://mlat.uzh.ch/browser?text=8863%26focus=8863:1.1;10">8863:1.1;10,30</pid>
+    <author cc_idno="1504" url="https://mlat.uzh.ch/browser?path=1504">Christianus Druthmarus</author>
+    <work cc_idno="3840" url="https://mlat.uzh.ch/browser?path=3840">Expositio in Matthaeum</work>
+    <decisive_year>880</decisive_year>
+    <result>
+      <position>Expositio in Matthaeum - INCIPIT PROLOGUS. - CAPUT PRIMUM CHRISTIANI DRUTHMARI</position>
+      <text>
+        <sentence parent_pid="8863:1.1;10" n="30"> Similiter et hic dictus latitudo per
+contrarium, eo quod ab illo defecerunt decem tribus,
+et eo angustiatum est in illo regnum Juda:
+Abia interpretatur pater Dominus: et non debet
+conjungi b cum i, sed ab, per se, et ia per se, quod
+est nomen Domini.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="60">
+    <pid text_idno="8863" url="https://mlat.uzh.ch/browser?text=8863%26focus=8863:1.1;10">8863:1.1;10,27</pid>
+    <author cc_idno="1504" url="https://mlat.uzh.ch/browser?path=1504">Christianus Druthmarus</author>
+    <work cc_idno="3840" url="https://mlat.uzh.ch/browser?path=3840">Expositio in Matthaeum</work>
+    <decisive_year>880</decisive_year>
+    <result>
+      <position>Expositio in Matthaeum - INCIPIT PROLOGUS. - CAPUT PRIMUM CHRISTIANI DRUTHMARI</position>
+      <text>
+        <sentence parent_pid="8863:1.1;10" n="27">Roboam autem
+genuit Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="61">
+    <pid text_idno="21343" url="https://mlat.uzh.ch/browser?text=21343%26focus=21343:4;147">21343:4;147,1</pid>
+    <author cc_idno="2050" url="https://mlat.uzh.ch/browser?path=2050">Ekkehardus Uraugiensis</author>
+    <work cc_idno="21467" url="https://mlat.uzh.ch/browser?path=21467">Chronicon universale</work>
+    <decisive_year>1125</decisive_year>
+    <result>
+      <position>Chronicon universale - An. ducat. Moysi.</position>
+      <text>
+        <sentence parent_pid="21343:4;147" n="1">Abia, filius Roboam regnavit super Judam in
+Hierusalem annis tribus .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="62">
+    <pid text_idno="21415" url="https://mlat.uzh.ch/browser?text=21415%26focus=21415:856;1">21415:856;1,1</pid>
+    <author cc_idno="21578" url="https://mlat.uzh.ch/browser?path=21578">Eusebius Caesariensis</author>
+    <work cc_idno="21530" url="https://mlat.uzh.ch/browser?path=21530">Interpretatio Chronicae Eusebii</work>
+    <decisive_year>340</decisive_year>
+    <result>
+      <position>Interpretatio Chronicae Eusebii - 3. (1 to 3)</position>
+      <text>
+        <sentence parent_pid="21415:856;1" n="1">Post quem ABIA IV, an.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="63">
+    <pid text_idno="13226" url="https://mlat.uzh.ch/browser?text=13226%26focus=13226:19.28;2">13226:19.28;2,33</pid>
+    <author cc_idno="13855" url="https://mlat.uzh.ch/browser?path=13855">Flacius Illyricus, Matthias</author>
+    <work cc_idno="13557" url="https://mlat.uzh.ch/browser?path=13557">Clavis scripturae sacrae, pars prima</work>
+    <decisive_year>1575</decisive_year>
+    <result>
+      <position>Clavis scripturae sacrae, pars prima - V - VIA,</position>
+      <text>
+        <sentence parent_pid="13226:19.28;2" n="33"> 2. Par. 13, Reliqua gestorum Abia, et viarum eius.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="64">
+    <pid text_idno="13226" url="https://mlat.uzh.ch/browser?text=13226%26focus=13226:22.2;3">13226:22.2;3,32</pid>
+    <author cc_idno="13855" url="https://mlat.uzh.ch/browser?path=13855">Flacius Illyricus, Matthias</author>
+    <work cc_idno="13557" url="https://mlat.uzh.ch/browser?path=13557">Clavis scripturae sacrae, pars prima</work>
+    <decisive_year>1575</decisive_year>
+    <result>
+      <position>Clavis scripturae sacrae, pars prima - EUCHERII EPISCOPI LUGDUNENSIS IN LIBRUM SECUNDUM INSTRUCTIONUM, PRAEFATIO AD SALONIUM. - HEBRAEORUM NOMINUM INterpretatio. 1.</position>
+      <text>
+        <sentence parent_pid="13226:22.2;3" n="32"> Abia, pater Dominus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="65">
+    <pid text_idno="13227" url="https://mlat.uzh.ch/browser?text=13227%26focus=13227:3.29;57">13227:3.29;57,1</pid>
+    <author cc_idno="13855" url="https://mlat.uzh.ch/browser?path=13855">Flacius Illyricus, Matthias</author>
+    <work cc_idno="13558" url="https://mlat.uzh.ch/browser?path=13558">Clavis scripturae sacrae, pars secunda</work>
+    <decisive_year>1575</decisive_year>
+    <result>
+      <position>Clavis scripturae sacrae, pars secunda - DE RATIONE COGNOSCENDI SACRAS LITERAS, TRACTATUS I. - DE TEMPORIBUS HISTORIARUM.</position>
+      <text>
+        <sentence parent_pid="13227:3.29;57" n="1">Abia annis 3. 1. Reg. 15. 1. Par. 15. </sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="66">
+    <pid text_idno="8868" url="https://mlat.uzh.ch/browser?text=8868%26focus=8868:5.5;2">8868:5.5;2,13</pid>
+    <author cc_idno="1508" url="https://mlat.uzh.ch/browser?path=1508">Freculphus Lexovensis</author>
+    <work cc_idno="3845" url="https://mlat.uzh.ch/browser?path=3845">Chronica</work>
+    <decisive_year>850</decisive_year>
+    <result>
+      <position>Chronica - LIBER TERTIUS. - CAPUT V.</position>
+      <text>
+        <sentence parent_pid="8868:5.5;2" n="13"> Defunctoque Roboam,
+qui regnavit in Hierusalem super tribum Juda et
+Benjamin, successit Abia, qui etiam habuit successorem
+Asam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="67">
+    <pid text_idno="11690" url="https://mlat.uzh.ch/browser?text=11690%26focus=11690:23;9">11690:23;9,11</pid>
+    <author cc_idno="2397" url="https://mlat.uzh.ch/browser?path=2397">Garnerius Lingonensis</author>
+    <work cc_idno="6641" url="https://mlat.uzh.ch/browser?path=6641">Sermones</work>
+    <decisive_year>1198</decisive_year>
+    <result>
+      <position>Sermones - SERMO XXIII. IN NATIVITATE S. JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="11690:23;9" n="11"> Ponamus historiae fundamentum: Fuit in diebus Herodis regis Sacerdos, nomine
+Zacharias, de vice Abia, et uxor ejus de familia
+Aaron, nomine Elisabeth 
+ .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="68">
+    <pid text_idno="11469" url="https://mlat.uzh.ch/browser?text=11469%26focus=11469:22;53">11469:22;53,4</pid>
+    <author cc_idno="2330" url="https://mlat.uzh.ch/browser?path=2330">Gerhohus Reicherspergensis</author>
+    <work cc_idno="6421" url="https://mlat.uzh.ch/browser?path=6421">Commentarius aureus in Psalmos et cantica ferialia</work>
+    <decisive_year>1169</decisive_year>
+    <result>
+      <position>Commentarius aureus in Psalmos et cantica ferialia - PSALMUS XVIII.</position>
+      <text>
+        <sentence parent_pid="11469:22;53" n="4"> Ille in officio parvo tantus factus est, ut
+inter natos mulierum non esset major illo: qui
+cum esset legitimus haeres legalis sacerdotii natus
+de vice Abia, qui de sacerdotali fuit prosapia, tamen
+
+sub principibus sacerdotum iniquis Anna et
+Caipha sacerdotio tunc occupato quasi plebalis
+fuit in eremo nullo trahente seu eligente illum ad
+sacerdotium, quod ex merito ac generatione fuit ei
+debitum.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="69">
+    <pid text_idno="7940" url="https://mlat.uzh.ch/browser?text=7940%26focus=7940:2.16;3">7940:2.16;3,1</pid>
+    <author cc_idno="1109" url="https://mlat.uzh.ch/browser?path=1109">Gregorius Turonensis</author>
+    <work cc_idno="2941" url="https://mlat.uzh.ch/browser?path=2941">Historia Francorum</work>
+    <decisive_year>594</decisive_year>
+    <result>
+      <position>Historia Francorum -  - XIV.</position>
+      <text>
+        <sentence parent_pid="7940:2.16;3" n="1">A David autem usque ad desolationem templi, et
+transmigrationem in Babyloniam generationes quatuordecim: 16 
+ id est, David, Salomon, Roboam,
+Abia, Asa, Josaphat, Joram, Ozias, Joatham, Achaz,
+Ezechias, Manasses, Amon, Josias.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="70">
+    <pid text_idno="13077" url="https://mlat.uzh.ch/browser?text=13077%26focus=13077:2.25.3.5;2">13077:2.25.3.5;2,1</pid>
+    <author cc_idno="12808" url="https://mlat.uzh.ch/browser?path=12808">Guido da Pisa</author>
+    <work cc_idno="12929" url="https://mlat.uzh.ch/browser?path=12929">Expositiones et glose super Comediam Dantis</work>
+    <decisive_year>1350</decisive_year>
+    <result>
+      <position>Expositiones et glose super Comediam Dantis - Inferno - XXV - EXPOSITIO LICTERE. - vv. 19-21</position>
+      <text>
+        <sentence parent_pid="13077:2.25.3.5;2" n="1">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Maremma non cred'io che tante 
+n'abia,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>quante bisce elli avea su per la 
+groppa<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>in fin dove comincia nostra 
+labia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="71">
+    <pid text_idno="13077" url="https://mlat.uzh.ch/browser?text=13077%26focus=13077:2.29.4.5;3">13077:2.29.4.5;3,1</pid>
+    <author cc_idno="12808" url="https://mlat.uzh.ch/browser?path=12808">Guido da Pisa</author>
+    <work cc_idno="12929" url="https://mlat.uzh.ch/browser?path=12929">Expositiones et glose super Comediam Dantis</work>
+    <decisive_year>1350</decisive_year>
+    <result>
+      <position>Expositiones et glose super Comediam Dantis - Inferno - XXIX - vv. 82-84</position>
+      <text>
+        <sentence parent_pid="13077:2.29.4.5;3" n="1">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>et sì traevan giù l'unghie la 
+scabia,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>come coltel di scardoa le 
+scaglie<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>o d'altro pesce che più larghe 
+l'abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="72">
+    <pid text_idno="9086" url="https://mlat.uzh.ch/browser?text=9086%26focus=9086:19;2">9086:19;2,4</pid>
+    <author cc_idno="1543" url="https://mlat.uzh.ch/browser?path=1543">Haymo Halberstatensis</author>
+    <work cc_idno="4063" url="https://mlat.uzh.ch/browser?path=4063">Homiliae</work>
+    <decisive_year>853</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA XVII. DOMINICA PRIMA POST EPIPHANIAM.</position>
+      <text>
+        <sentence parent_pid="9086:19;2" n="4"> De quibus exordium sui
+Evangelii a Zacharia sacerdote coepit, dicens (Ipsi
+enim sacerdotes in die ordinationis suae vitulum
+offerebant):  « Fuit in diebus Herodis regis Judaeae
+sacerdos quidam nomine Zacharias de vice Abia, et
+uxor illius de filiabus Aaron.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="73">
+    <pid text_idno="7191" url="https://mlat.uzh.ch/browser?text=7191%26focus=7191:2;5">7191:2;5,9</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="635" url="https://mlat.uzh.ch/browser?path=635">Commentaria in Matthaeum</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Commentaria in Matthaeum - </position>
+      <text>
+        <sentence parent_pid="7191:2;5" n="9"> Abia autem
+genuit Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="74">
+    <pid text_idno="7158" url="https://mlat.uzh.ch/browser?text=7158%26focus=7158:3.10;2">7158:3.10;2,7</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="602" url="https://mlat.uzh.ch/browser?path=602">Dialogus contra Pelagianos</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Dialogus contra Pelagianos - LIBER PRIMUS. - 12.</position>
+      <text>
+        <sentence parent_pid="7158:3.10;2" n="7"> In Evangelio
+
+quoque secundum Lucam: Fuit in diebus Herodis
+regis Judae sacerdos quidam nomine Zacharias, de vice
+Abia, et uxor illi de filiabus Aaron, et nomen illius Elisabeth.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="75">
+    <pid text_idno="7246" url="https://mlat.uzh.ch/browser?text=7246%26focus=7246:1;2">7246:1;2,3</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="689" url="https://mlat.uzh.ch/browser?path=689">Evangelium secundum Lucam</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Evangelium secundum Lucam - Evangelium secundum Lucam</position>
+      <text>
+        <sentence parent_pid="7246:1;2" n="3">
+Fuit in diebus Herodis, regis Judaeae, sacerdos
+quidam nomine Zacharias, de vice Abia; et
+uxor illius de filiabus Aaron, et nomen ejus Elizabeth.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="76">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:4;8">7215:4;8,2</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - INCIPIUNT LIBRI DUO SAMUELIS LIBER SAMUELIS LIBER I MALACHIM.</position>
+      <text>
+        <sentence parent_pid="7215:4;8" n="2">
+Fuitque nomen filii ejus primogeniti Joel, et nomen
+
+secundi Abia, judicum in Ber-Sabee.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="77">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:6.61;2">7215:6.61;2,1</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - CAPITULATIONES LIBRI MALACHIM. TITULI LIBRI MALACHIM. - LXI.</position>
+      <text>
+        <sentence parent_pid="7215:6.61;2" n="1">Hic moritur Abia, et suscipit regnum rex Juda
+filius ejus, qui regnavit annis XL idem Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="78">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:6.60;2">7215:6.60;2,1</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - CAPITULATIONES LIBRI MALACHIM. TITULI LIBRI MALACHIM. - LX.</position>
+      <text>
+        <sentence parent_pid="7215:6.60;2" n="1">Hic moritur Roboam, et regnat Abia filius ejus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="79">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:8;17">7215:8;17,8</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - INCIPIUNT LIBRI DUO MALACHIM.</position>
+      <text>
+        <sentence parent_pid="7215:8;17" n="8"> [T. LXI.] Et dormivit Abia cum
+patribus suis, et sepelierunt eum in civitate David:
+regnavitque Asa filius ejus pro eo.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="80">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:8;17">7215:8;17,6</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - INCIPIUNT LIBRI DUO MALACHIM.</position>
+      <text>
+        <sentence parent_pid="7215:8;17" n="6"> Reliqua autem sermonum
+
+Abia, et omnia quae fecit, nonne haec scripta
+sunt in libro Verborum dierum regum Juda?</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="81">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:8;16">7215:8;16,27</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - INCIPIUNT LIBRI DUO MALACHIM.</position>
+      <text>
+        <sentence parent_pid="7215:8;16" n="27"> Dormivitque
+Roboam cum patribus suis, et sepultus est
+cum eis in civitate David: [T. LX] nomen autem
+matris ejus Naama Ammanitis, et regnavit Abia
+[h. Abiam] filius ejus pro eo.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="82">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:8;16">7215:8;16,1</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - INCIPIUNT LIBRI DUO MALACHIM.</position>
+      <text>
+        <sentence parent_pid="7215:8;16" n="1">[T. LV, Cap. XIV.] In tempore illo aegrotavit
+Abia filius Jeroboam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="83">
+    <pid text_idno="7215" url="https://mlat.uzh.ch/browser?text=7215%26focus=7215:7.14;2">7215:7.14;2,1</pid>
+    <author cc_idno="879" url="https://mlat.uzh.ch/browser?path=879">Hieronymus Stridonensis</author>
+    <work cc_idno="658" url="https://mlat.uzh.ch/browser?path=658">Libri Samuelis et Malachim</work>
+    <decisive_year>420</decisive_year>
+    <result>
+      <position>Libri Samuelis et Malachim - CAPITULATIO LIBRI MALACHIM. - XIV.</position>
+      <text>
+        <sentence parent_pid="7215:7.14;2" n="1">De Abia filio Roboam, et de morte ejus, et de Asa
+filio ejus qui pro eo regnavit, cui Josaphat filius successit,
+et de morte Nadab, et de Baasa filio ejus rege
+Israel.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="84">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,84</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="84">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>A populo Judae postquam sepelitur Abia,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Sceptrifer efficitur filius ejus Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="85">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,80</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="80">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Ad Dominum clamans dum rex confligit Abia,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Jeroboam fugiens vix redit ad propria.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="86">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,78</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="78">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Mortuus est Roboam, quo cum Salomone sepulto;<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Natus Abia suus fungitur imperio.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="87">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,74</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="74">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Et veniens Thersam regina domum penetravit,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Natus Abia suus mox anima caruit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="88">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,71</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="71">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Jeroboam generis tumulabitur amodo nullus,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Solus erit tumulo vester Abia datus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="89">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,70</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="70">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Aeger Abia jacens, quem Jeroboam generavit,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Quando domum venies exanimatus erit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="90">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,66</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="66">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Rex jubet ut pergens sua consulat uxor Achiam,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>An subeat mortem natus Abia citam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="91">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:3">10916:3,65</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:3" n="65">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Jeroboam natus jacet aeger Abia vocatus;<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Atque quiete carens luget uterque parens.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="92">
+    <pid text_idno="10916" url="https://mlat.uzh.ch/browser?text=10916%26focus=10916:1">10916:1,20</pid>
+    <author cc_idno="2111" url="https://mlat.uzh.ch/browser?path=2111">Hildebertus Cenomanensis</author>
+    <work cc_idno="5877" url="https://mlat.uzh.ch/browser?path=5877">Carmen in libros regum</work>
+    <decisive_year>1133</decisive_year>
+    <result>
+      <position>Carmen in libros regum - </position>
+      <text>
+        <sentence parent_pid="10916:1" n="20">
+          <cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>A Samuele Joel, nec non fuit ortus Abia,<cc:lb xmlns:cc="http://mlat.uzh.ch/2.0" type="verse"/>Quos populus quaeritur vendere judicia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="93">
+    <pid text_idno="10783" url="https://mlat.uzh.ch/browser?text=10783%26focus=10783:11;2">10783:11;2,18</pid>
+    <author cc_idno="2156" url="https://mlat.uzh.ch/browser?path=2156">Hugo de S. Maria Floriacensis</author>
+    <work cc_idno="5745" url="https://mlat.uzh.ch/browser?path=5745">Excerpta ex Historia ecclesiastica</work>
+    <decisive_year>1135</decisive_year>
+    <result>
+      <position>Excerpta ex Historia ecclesiastica - INCIPIT PROLOGUS TERCII LIBRI, IN QUO CONTINETUR ITALIAE SITUS.</position>
+      <text>
+        <sentence parent_pid="10783:11;2" n="18">Fuit, inquit, in diebus Herodis regis
+Judeae sacerdos quidam nomine Zacharias de vice
+Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="94">
+    <pid text_idno="10783" url="https://mlat.uzh.ch/browser?text=10783%26focus=10783:2;3">10783:2;3,3</pid>
+    <author cc_idno="2156" url="https://mlat.uzh.ch/browser?path=2156">Hugo de S. Maria Floriacensis</author>
+    <work cc_idno="5745" url="https://mlat.uzh.ch/browser?path=5745">Excerpta ex Historia ecclesiastica</work>
+    <decisive_year>1135</decisive_year>
+    <result>
+      <position>Excerpta ex Historia ecclesiastica - INCIPIT PROOEMIUM SIVE LIBER PRIMUS HISTORIAE ECCLESIASTICAE, QUAEQUE BREVITER EST AB HUGONE DE SANCTA MARIA MONACHO SANCTI BENEDICTI FLORIACENSIS MONASTERII TRANSFORMATA VEL DEFLORATA, ANNO AB INCARNATIONE DOMINI MILLESIMO CENTESIMO NONO.</position>
+      <text>
+        <sentence parent_pid="10783:2;3" n="3">Fuit, 
+ inquit, in diebus Herodis regis Judeae sacerdos
+quidam nomine Zacharias de vice Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="95">
+    <pid text_idno="20921" url="https://mlat.uzh.ch/browser?text=20921%26focus=20921:1.2.1.31;2">20921:1.2.1.31;2,1</pid>
+    <author cc_idno="16096" url="https://mlat.uzh.ch/browser?path=16096">Hugutius Pisanus</author>
+    <work cc_idno="20617" url="https://mlat.uzh.ch/browser?path=20617">Derivationes</work>
+    <decisive_year>1160</decisive_year>
+    <result>
+      <position>Derivationes - derivationes - A - derivationes - A 31</position>
+      <text>
+        <sentence parent_pid="20921:1.2.1.31;2" n="1">ABIA interpretatur pater dominus vel pater fuit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="96">
+    <pid text_idno="11835" url="https://mlat.uzh.ch/browser?text=11835%26focus=11835:16;5">11835:16;5,2</pid>
+    <author cc_idno="1794" url="https://mlat.uzh.ch/browser?path=1794">Innocentius III</author>
+    <work cc_idno="6785" url="https://mlat.uzh.ch/browser?path=6785">Sermones de sanctis</work>
+    <decisive_year>1216</decisive_year>
+    <result>
+      <position>Sermones de sanctis - SERMO XVI. IN SOLEMNITATE S. JOANNIS BAPTISTAE.</position>
+      <text>
+        <sentence parent_pid="11835:16;5" n="2"> « Fuit, inquit, in diebus Herodis
+regis Judaeae sacerdos quidam nomine Zacharias,
+de vice Abia, et uxor ejus de filiabus Aaron, et nomen
+ejus Elisabeth Luc.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="97">
+    <pid text_idno="8178" url="https://mlat.uzh.ch/browser?text=8178%26focus=8178:6.39;5">8178:6.39;5,26</pid>
+    <author cc_idno="1318" url="https://mlat.uzh.ch/browser?path=1318">Isidorus Hispalensis</author>
+    <work cc_idno="3172" url="https://mlat.uzh.ch/browser?path=3172">Etymologiae</work>
+    <decisive_year>636</decisive_year>
+    <result>
+      <position>Etymologiae - LIBER QUINTUS. DE LEGIBUS ET TEMPORIBUS. - CAPUT XXXIX.</position>
+      <text>
+        <sentence parent_pid="8178:6.39;5" n="26"> CCXXII. Abia, an.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="98">
+    <pid text_idno="8178" url="https://mlat.uzh.ch/browser?text=8178%26focus=8178:8.6;91">8178:8.6;91,1</pid>
+    <author cc_idno="1318" url="https://mlat.uzh.ch/browser?path=1318">Isidorus Hispalensis</author>
+    <work cc_idno="3172" url="https://mlat.uzh.ch/browser?path=3172">Etymologiae</work>
+    <decisive_year>636</decisive_year>
+    <result>
+      <position>Etymologiae - LIBER SEPTIMUS. DE DEO, ANGELIS, ET FIDELIUM ORDINIBUS. - CAPUT VI.</position>
+      <text>
+        <sentence parent_pid="8178:8.6;91" n="1">69. ABIA, pater dominus, vel pater fuit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="99">
+    <pid text_idno="12183" url="https://mlat.uzh.ch/browser?text=12183%26focus=12183:7.6">12183:7.6,156</pid>
+    <author cc_idno="1318" url="https://mlat.uzh.ch/browser?path=1318">Isidorus Hispalensis</author>
+    <work cc_idno="3172" url="https://mlat.uzh.ch/browser?path=3172">Etymologiae</work>
+    <decisive_year>636</decisive_year>
+    <result>
+      <position>Etymologiae - Liber 7: DE DEO, ANGELIS ET SANCTIS</position>
+      <text>
+        <sentence parent_pid="12183:7.6" n="156">Abia pater Dominus, vel pater fuit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="100">
+    <pid text_idno="12183" url="https://mlat.uzh.ch/browser?text=12183%26focus=12183:5.39">12183:5.39,105</pid>
+    <author cc_idno="1318" url="https://mlat.uzh.ch/browser?path=1318">Isidorus Hispalensis</author>
+    <work cc_idno="3172" url="https://mlat.uzh.ch/browser?path=3172">Etymologiae</work>
+    <decisive_year>636</decisive_year>
+    <result>
+      <position>Etymologiae - Liber 5: DE LEGIBUS ET TEMPORIBUS</position>
+      <text>
+        <sentence parent_pid="12183:5.39" n="105">IVMCCXXI. Abia ann.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="101">
+    <pid text_idno="21972" url="https://mlat.uzh.ch/browser?text=21972%26focus=21972:1.18.4;5">21972:1.18.4;5,3</pid>
+    <author cc_idno="21968" url="https://mlat.uzh.ch/browser?path=21968">Johannes Bollandus</author>
+    <work cc_idno="21970" url="https://mlat.uzh.ch/browser?path=21970">Acta Sanctorum, Ianuarius 1</work>
+    <decisive_year>1643</decisive_year>
+    <result>
+      <position>Acta Sanctorum, Ianuarius 1 - Ianuarius. dies XXXI. - VIII. IANVARII. - [Commentarius]</position>
+      <text>
+        <sentence parent_pid="21972:1.18.4;5" n="3"> Et huc uidetur alludere
+Abia qui Roboamo patri successit in regnum,
+cum fatetur eum fuisse rudem, et corde pauido; ideoque
+neque Israelitis resistere potuisse.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="102">
+    <pid text_idno="9114" url="https://mlat.uzh.ch/browser?text=9114%26focus=9114:3;19">9114:3;19,212</pid>
+    <author cc_idno="1550" url="https://mlat.uzh.ch/browser?path=1550">Paschasius Radbertus</author>
+    <work cc_idno="4091" url="https://mlat.uzh.ch/browser?path=4091">Expositio in Matthaeum</work>
+    <decisive_year>860</decisive_year>
+    <result>
+      <position>Expositio in Matthaeum - LIBER PRIMUS.</position>
+      <text>
+        <sentence parent_pid="9114:3;19" n="212">
+Sequitur autem Abia, qui pater Dominus interpretatur.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="103">
+    <pid text_idno="9114" url="https://mlat.uzh.ch/browser?text=9114%26focus=9114:3;12">9114:3;12,2</pid>
+    <author cc_idno="1550" url="https://mlat.uzh.ch/browser?path=1550">Paschasius Radbertus</author>
+    <work cc_idno="4091" url="https://mlat.uzh.ch/browser?path=4091">Expositio in Matthaeum</work>
+    <decisive_year>860</decisive_year>
+    <result>
+      <position>Expositio in Matthaeum - LIBER PRIMUS.</position>
+      <text>
+        <sentence parent_pid="9114:3;12" n="2"> Abia vero Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="104">
+    <pid text_idno="7718" url="https://mlat.uzh.ch/browser?text=7718%26focus=7718:31.7;2">7718:31.7;2,2</pid>
+    <author cc_idno="1131" url="https://mlat.uzh.ch/browser?path=1131">Paulinus Nolanus</author>
+    <work cc_idno="2726" url="https://mlat.uzh.ch/browser?path=2726">Epistolae</work>
+    <decisive_year>431</decisive_year>
+    <result>
+      <position>Epistolae - EPISTOLA XXIX. - 7.</position>
+      <text>
+        <sentence parent_pid="7718:31.7;2" n="2"> Sed hunc ordinem non a
+
+rhetoricis institutis magis, quam de evangelicis exemplis
+usurpari doctissimus Lucas mihi testis est, qui
+Baptistae beati meritum ab originis claritate detexit:
+et ne tantum historiae gratia eum commemorasse
+existimes nobilem Dominici praecursoris parentem,
+veneranda priscae 179 nobilitatis insignia, et suum
+cuique stemma connectit, dicens sacerdotem Zachariam
+de vice Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="105">
+    <pid text_idno="14963" url="https://mlat.uzh.ch/browser?text=14963%26focus=14963:30.7;2">14963:30.7;2,1</pid>
+    <author cc_idno="1131" url="https://mlat.uzh.ch/browser?path=1131">Paulinus Nolanus</author>
+    <work cc_idno="15234" url="https://mlat.uzh.ch/browser?path=15234">Epistulae [CSEL]</work>
+    <decisive_year>431</decisive_year>
+    <result>
+      <position>Epistulae [CSEL] - XXVIIII. SEVERO FRATRI VNANIMO PAVLINVS. - § 7</position>
+      <text>
+        <sentence parent_pid="14963:30.7;2" n="1">Opinor autem et hoc ad cumulum diuinae gratiae pertinere, 
+            quod sanctitatem laudandam de laudibus generis praedicare 
+            ordior. sed hunc ordinem non a rhetoricis institutis 
+            magis quam de euangelicis exemplis usurpari doctissimus Lucas
+            mihi testis est, qui baptistae beati meritum ab originis claritate 
+            detexuit et, ne tantum historiae gratia eum commemorasse 
+            existimes nobilem dominici praecursoris parentem, ueneranda 
+            priscae nobilitatis insignia et suum cuique stemma 
+            conectit, dicens sacerdotem Zachariam de uice Abia,
+            credo, ut ex eo ipso dignitatem meriti eius ostenderet, adiciens 
+            nomen ex infulis, quod procul dubio in Hebraeis esset 
+            insigne, de cuius uice honoratum sortitus sacerdotium fungeretur. 
+            denique addit: et uxor illius de filiabus Aaron. 
+            uides euangelistam de commemoratione natalium sanctis dictionem 
+            fecisse meritorum, ut his, quos erat de propriis meritis 
+            praedicaturus, nomina auita praeferret; et uxor, inquit, illi 
+            erat de filiabus Aaron. auxit meritum sacerdotis commemorata 
+            nobilitate coniugii et laudaturus uitam genus ante 
+            laudauit, ut uenerabilior existeret qui sanctis parentibus responderet 
+            sanctitate ingenita quasi quadam iustitiae hereditate, 
+            qui illud principale in sacerdotibus nomen Aaron et 
+            honoris in munere et generis in uxore successor referret,
+
+
+            atque illa, quae concors in itinere iugum ueritatis cum marito 
+            trahebat, ad pariendum eligenda per angelum, de quo scriptum 
+            est: ecce mittam angelum ante faciem tuam, dignior 
+            et uiro sacerdote et filio prophetis praeferendo existeret, quam 
+            diuinis idoneam dotibus non solum uita iustitiae sed et familiae 
+            praerogatiua fecisset. sed et ipsius domini ortum praeter 
+            illum a fonte diuino fluentem etiam istum, quo filius hominis 
+            esse dignatus est, euangelistae duo numeratis ab initio maioribus 
+            ordiuntur, diuersam utroque scriptore corporei sanguinis 
+            uenam pari fide et dignitate referente, quia dignum erat, ut 
+            unigenitus dei et primogenitus totius creaturae atque uniuersi 
+            corporis caput etiam in generis corporei dignitate primatum 
+            teneret, ut unus in caelo dei filius ante saecula ineffabili natus exordio etiam in terris inlustrium titulorum sibi apices uindicaret, 
+            regum pariter et sacerdotum, ut duo testantur auctores, 
+            clara progenies. quamobrem non uidebimur aliena potius 
+            quam nostra uti regula terrenam quoque nobilitatem in supradicta 
+            dei famula praedicantes, quia perspicuum sit id quoque 
+            ad operis sui gloriam dominum contulisse, quo magis confunderetur 
+             iste mundus, qui talibus titulis gloriatur, ut quo 
+            uanitas hominum ad contemptum dei utitur, ista potius ad 
+            contemptum mundi uteretur, simul ut maior salutaris exempli 
+            proderetur auctoritas humiliandis superborum oculis, mulier 
+            celsiore gradu ad humilitatis cultum ob amorem Christi deiecta 
+            sublimiter, ut uiros desides in infirmo sexu fortis argueret, 
+            adrogantes in sexu utroque personas pauperata diues et nobilis 
+            humiliata confunderet. 
+</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="106">
+    <pid text_idno="11698" url="https://mlat.uzh.ch/browser?text=11698%26focus=11698:3.29;16">11698:3.29;16,2</pid>
+    <author cc_idno="2403" url="https://mlat.uzh.ch/browser?path=2403">Petrus Cantor</author>
+    <work cc_idno="6649" url="https://mlat.uzh.ch/browser?path=6649">Verbum abbreviatum</work>
+    <decisive_year>1197</decisive_year>
+    <result>
+      <position>Verbum abbreviatum - IN VERBUM ABBREVIATUM NOTAE AUCTORE R. P. D. GEORGIO GALOPINO MONASTERII SANCTI GISLENI IN HANNONIA RELIGIOSO. - CAPUT XXX.</position>
+      <text>
+        <sentence parent_pid="11698:3.29;16" n="2">] Certo constat Ozam fuisse ex
+tribu Levi, quia filius Abinadab erat cum Abia, ipsum
+autem sacerdotem fuisse negat Josephus his verbis: 
+Volens eam ( arcam ) retinere, cum sacerdos
+non esset.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="107">
+    <pid text_idno="11410" url="https://mlat.uzh.ch/browser?text=11410%26focus=11410:5;4">11410:5;4,15</pid>
+    <author cc_idno="2311" url="https://mlat.uzh.ch/browser?path=2311">Petrus Cluniacensis</author>
+    <work cc_idno="6362" url="https://mlat.uzh.ch/browser?path=6362">Adversus Judaeos</work>
+    <decisive_year>1157</decisive_year>
+    <result>
+      <position>Adversus Judaeos - CAP. IV.</position>
+      <text>
+        <sentence parent_pid="11410:5;4" n="15"> Discurre
+per singulos, et Salomone, Roboam, Abia, Asa, numeratis,
+per subsequentes usque ad Joachim, vel
+Sedeciam, ultimum ante captivitatem Babylonicam
+tribus Judae regem, perveni.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="108">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:17.47;2">11575:17.47;2,6</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI IV REGUM. - CAP. XLVII.</position>
+      <text>
+        <sentence parent_pid="11575:17.47;2" n="6">
+Et in reliqua parte anni ejusdem coepit
+regnare Asa filius Abia, et quadraginta et uno anno
+regnavit in Jerusalem.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="109">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:17.47;2">11575:17.47;2,5</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI IV REGUM. - CAP. XLVII.</position>
+      <text>
+        <sentence parent_pid="11575:17.47;2" n="5"> In decimo octavo
+anno Jeroboam qui viginti et duobus annis regnavit
+in Israel, conregnavit Abia, Jeroboam tribus annis
+quod synecdochice dictum est, hoc est duobus
+annis, et aliqua parte tertii, qui erat vicesimus Jeroboam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="110">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:17.47;2">11575:17.47;2,4</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI IV REGUM. - CAP. XLVII.</position>
+      <text>
+        <sentence parent_pid="11575:17.47;2" n="4"> Post Roboam coepit regnare
+Abia filius ejus in Jerusalem.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="111">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:16.31;2">11575:16.31;2,8</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI III REGUM. - CAP. XXXI.</position>
+      <text>
+        <sentence parent_pid="11575:16.31;2" n="8"> »  Et nota quod Roboam et
+Jeroboam dicuntur conregnasse decem et septem
+annis, et postea Abia conregnavit Jeroboam tribus
+annis, et sic impleti sunt viginti anni regni Jeroboam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="112">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:16.31;1">11575:16.31;1,1</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI III REGUM. - CAP. XXXI.</position>
+      <text>
+        <sentence parent_pid="11575:16.31;1" n="1">CAP. XXXI. De Abia rege Juda.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="113">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:16.30;2">11575:16.30;2,19</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI III REGUM. - CAP. XXX.</position>
+      <text>
+        <sentence parent_pid="11575:16.30;2" n="19"> « Et mortuus
+est Roboam, et sepultus in civitate David, et
+regnavit pro eo filius ejus Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="114">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:16.30;2">11575:16.30;2,1</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA LIBRI III REGUM. - CAP. XXX.</position>
+      <text>
+        <sentence parent_pid="11575:16.30;2" n="1">In diebus illis aegrotavit Abia filius Jeroboam,
+et ait rex uxori suae: Commuta habitum ne cognoscaris
+uxor mea, et vade in Silo ad Achiam prophetam,
+qui mihi quondam locutus est de regno,
+
+ipse indicabit tibi quid eventurum sit puero huic .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="115">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:25.1;2">11575:25.1;2,1</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - HISTORIA EVANGELICA. - CAP. I.</position>
+      <text>
+        <sentence parent_pid="11575:25.1;2" n="1"> « Fuit autem in diebus Herodis regis Judaeae
+(effluxis annis regni ejus, videlicet triginta) sacerdos,
+
+nomine Zacharias, de vice Abia, et uxor ejus
+Aaronita, nomine Elisabeth .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="116">
+    <pid text_idno="11575" url="https://mlat.uzh.ch/browser?text=11575%26focus=11575:23.1;2">11575:23.1;2,2</pid>
+    <author cc_idno="2356" url="https://mlat.uzh.ch/browser?path=2356">Petrus Comestor</author>
+    <work cc_idno="6527" url="https://mlat.uzh.ch/browser?path=6527">Historia scholastica</work>
+    <decisive_year>1178</decisive_year>
+    <result>
+      <position>Historia scholastica - LIBER I MACHABAEORUM. - CAP. I.</position>
+      <text>
+        <sentence parent_pid="11575:23.1;2" n="2"> Erat autem vir de Modin,
+modico Judaeae vico sacerdos, nomine Mathathias,
+filius Joannis, filii Simonis, filii Asmonaei, de
+vice Joarib, id est unius illorum viginti quatuor quos
+David elegit ; et in eumdem modum
+dictus est Zacharias de vice Abia .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="117">
+    <pid text_idno="10071" url="https://mlat.uzh.ch/browser?text=10071%26focus=10071:3.4;2">10071:3.4;2,8</pid>
+    <author cc_idno="928" url="https://mlat.uzh.ch/browser?path=928">Petrus Damianus</author>
+    <work cc_idno="5039" url="https://mlat.uzh.ch/browser?path=5039">Contra intemperantes clericos</work>
+    <decisive_year>1072</decisive_year>
+    <result>
+      <position>Contra intemperantes clericos - DISSERTATIO II. - CAP. IV.--</position>
+      <text>
+        <sentence parent_pid="10071:3.4;2" n="8"> Quod et
+
+Lucas evangelista manifeste declarat, qui cum praemisisset
+quia Zacharias erat de vice Abia, et quia
+sacerdotio fungeretur in ordine vicis suae ante Deum,
+non multo post ait:  « Factum est, ut impleti sunt
+dies officii ejus, abiit in domum suam; moxque
+subjecit: Post hos autem dies concepit Elisabeth
+uxor ejus .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="118">
+    <pid text_idno="8905" url="https://mlat.uzh.ch/browser?text=8905%26focus=8905:2.8;2">8905:2.8;2,13</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3882" url="https://mlat.uzh.ch/browser?path=3882">Commentaria in libros Regum</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in libros Regum - INCIPIUNT COMMENTARIA IN LIBROS IV REGUM. IN LIBRUM PRIMUM. - CAPUT VIII.</position>
+      <text>
+        <sentence parent_pid="8905:2.8;2" n="13"> Abia interpretatur pater Dominus, 
+ vel pater fuit.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="119">
+    <pid text_idno="8905" url="https://mlat.uzh.ch/browser?text=8905%26focus=8905:2.8;2">8905:2.8;2,5</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3882" url="https://mlat.uzh.ch/browser?path=3882">Commentaria in libros Regum</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in libros Regum - INCIPIUNT COMMENTARIA IN LIBROS IV REGUM. IN LIBRUM PRIMUM. - CAPUT VIII.</position>
+      <text>
+        <sentence parent_pid="8905:2.8;2" n="5"> Deinde senectute gravatus, et agere
+solemnia praepeditus, filiis suis tribuit principatum,
+quorum senior quidem dicebatur Joel, junior autem
+Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="120">
+    <pid text_idno="8905" url="https://mlat.uzh.ch/browser?text=8905%26focus=8905:2.8;2">8905:2.8;2,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3882" url="https://mlat.uzh.ch/browser?path=3882">Commentaria in libros Regum</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in libros Regum - INCIPIUNT COMMENTARIA IN LIBROS IV REGUM. IN LIBRUM PRIMUM. - CAPUT VIII.</position>
+      <text>
+        <sentence parent_pid="8905:2.8;2" n="2"> Fuitque nomen
+filii ejus primogeniti Joel, et nomen secundi Abia,
+judicum in Bersabee.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="121">
+    <pid text_idno="8905" url="https://mlat.uzh.ch/browser?text=8905%26focus=8905:5.18;2">8905:5.18;2,3</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3882" url="https://mlat.uzh.ch/browser?path=3882">Commentaria in libros Regum</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in libros Regum - IN LIBRUM IV. - CAPUT XVIII.</position>
+      <text>
+        <sentence parent_pid="8905:5.18;2" n="3">
+Nomen matris ejus Abia filia Zachariae.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="122">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.9;11">8903:2.9;11,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT IX.</position>
+      <text>
+        <sentence parent_pid="8903:2.9;11" n="2">
+Hi sunt vices viginti quatuor, quae in sequentibus
+describuntur a David ordinatae ad ministerium
+tabernaculi, quarum in Evangelio menti est: ut Zacharias de vice Abia 
+ sorte dicitur exisse, ut incensum
+poneret in templo Domini .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="123">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.7;3">8903:2.7;3,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT VII.</position>
+      <text>
+        <sentence parent_pid="8903:2.7;3" n="1">Porro filii Bechor: Zamira et Joas, et Eliezer, et
+Elioenai et Amri et Jerimoth et Abia et Anathoth et
+Almath.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="124">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.6;4">8903:2.6;4,4</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT VI.</position>
+      <text>
+        <sentence parent_pid="8903:2.6;4" n="4"> Sic enim scriptum
+est: Factum est autem cum senuisset Samuel, posuit
+filios suos judices Israel: fuitque nomen filii ejus
+primogeniti Joel, et nomen secundi Abia, judicium in
+Bersabee.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="125">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.6;4">8903:2.6;4,3</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT VI.</position>
+      <text>
+        <sentence parent_pid="8903:2.6;4" n="3"> Quia ergo Abia filius Samuelis (ut Hebraei
+tradunt) in judicio constitutus, munerum acceptor
+erat, et iste Johel (qui et Vasseni) senior filius,
+hoc sciendo, non eum inde corripiebat, ideo
+dicitur uterque peccatum fecisse.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="126">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.6;4">8903:2.6;4,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT VI.</position>
+      <text>
+        <sentence parent_pid="8903:2.6;4" n="1">Filii Samuel primogenitus Vasseni et Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="127">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.3;8">8903:2.3;8,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT III.</position>
+      <text>
+        <sentence parent_pid="8903:2.3;8" n="1">Filius autem Salomonis Roboam, cujus Abia genuit
+Asa.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="128">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.2;13">8903:2.2;13,4</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT II.</position>
+      <text>
+        <sentence parent_pid="8903:2.2;13" n="4">
+Hesron autem quartam habuit uxorem Abia, quae
+peperit ei Ashur, patrem Thecue .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="129">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:2.2;13">8903:2.2;13,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - INCIPIT EXPOSITIO IN PARALIPOMENA. LIBER PRIMUS. - CAPUT II.</position>
+      <text>
+        <sentence parent_pid="8903:2.2;13" n="2"> Habuit quoque Hesron uxorem
+Abia, quae peperit ei Ashur, patrem Thecue.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="130">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.16;4">8903:5.16;4,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XXVIII</position>
+      <text>
+        <sentence parent_pid="8903:5.16;4" n="2"> Hunc Zachariam cujus Abia mater Ezechiae filia
+esse memoratur, asserunt Hebraei posthumum filium
+esse Zachariae prophetae et sacerdotis, quem Joas rex
+interfecerat.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="131">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.16;4">8903:5.16;4,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XXVIII</position>
+      <text>
+        <sentence parent_pid="8903:5.16;4" n="1">Igitur Ezechias regnare coepit cum viginti quinque
+esset annorum, et viginti novem annis regnavit in Jerusalem:
+nomen matris ejus Abia filia Zachariae.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="132">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.4;2">8903:5.4;2,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XIV.</position>
+      <text>
+        <sentence parent_pid="8903:5.4;2" n="1"> Dormivit autem Abia cum patribus
+suis, et sepelierunt eum in civitate David; regnavitque
+Asa filius ejus pro eo.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="133">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.3;5">8903:5.3;5,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XIII.</position>
+      <text>
+        <sentence parent_pid="8903:5.3;5" n="2"> Non Jeroboam
+percussit Deus ut plerique aestimant, siquidem,
+juxta Regnorum librum, in vicesimo anno regni ejus
+imperaverat Asa filius Abia super Judam et Jerusalem;
+sed Abiam; quia capta Bethel, idola Israeli in
+scandalum reservavit, ut Hebraei asserunt.
+</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="134">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.3;5">8903:5.3;5,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XIII.</position>
+      <text>
+        <sentence parent_pid="8903:5.3;5" n="1">Nec valuit ultra resistere Jeroboam in diebus Abia;
+quem percussit Dominus, et mortuus est.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="135">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.3;4">8903:5.3;4,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XIII.</position>
+      <text>
+        <sentence parent_pid="8903:5.3;4" n="1">Persecutus est autem Abia fugientem Jeroboam, et
+
+cepit civitates ejus, Bethel et filias ejus, et Jesana
+cum filiabus suis, Ephron quoque et filias ejus.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="136">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.3;3">8903:5.3;3,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XIII.</position>
+      <text>
+        <sentence parent_pid="8903:5.3;3" n="1">Stetit ergo Abia super montem Semeron, qui erat
+in Ephraim, et ait: Audi, Jeroboam et omnis Israel,
+num ignoratis quod Dominus Deus Israel dederit regnum
+David super Israel in sempiternum ipsi et filiis
+ejus?</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="137">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.3;2">8903:5.3;2,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XIII.</position>
+      <text>
+        <sentence parent_pid="8903:5.3;2" n="1"> Anno octavo decimo regis Jeroboam
+regnavit Abia super Judam.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="138">
+    <pid text_idno="8903" url="https://mlat.uzh.ch/browser?text=8903%26focus=8903:5.2;4">8903:5.2;4,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3880" url="https://mlat.uzh.ch/browser?path=3880">Commentaria in Paralipomena</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentaria in Paralipomena - LIBER QUARTUS. - CAPUT XII.</position>
+      <text>
+        <sentence parent_pid="8903:5.2;4" n="1">Pugnaverunt adversum se Roboam et Jeroboam
+cunctis diebus, et dormivit Roboam cum patribus suis,
+sepultum est in civitate David, et regnavit Abia filius
+ejus pro eo.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="139">
+    <pid text_idno="8886" url="https://mlat.uzh.ch/browser?text=8886%26focus=8886:2.1;14">8886:2.1;14,57</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3863" url="https://mlat.uzh.ch/browser?path=3863">Commentarium in Matthaeum</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Commentarium in Matthaeum - INCIPIUNT COMMENTARIA IN MATTHAEUM. LIBER PRIMUS. PROOEMIUM. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8886:2.1;14" n="57"> 
+Abia, in nostram linguam convertitur pater
+dominus, ostenditque illum de quo propheta ait:
+Parvulus natus est nobis, et filius datus est nobis, et
+factus principatus ejus super humerum ejus, et vocabitur
+nomen ejus admirabilis, consiliarius, Deus fortis,
+pater futuri saeculi, princeps pacis, 
+ et reliqua .</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="140">
+    <pid text_idno="8922" url="https://mlat.uzh.ch/browser?text=8922%26focus=8922:5.1;54">8922:5.1;54,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3899" url="https://mlat.uzh.ch/browser?path=3899">De universo</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>De universo - LIBER TERTIUS. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8922:5.1;54" n="2"> Cum
+traditionibus suis violaverunt legem: sic Abia, capta
+Bethel, idola Israeli in scandalum reservavit, ut
+Hebraei asserunt, et ideo percussus a Domino mortuus
+est.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="141">
+    <pid text_idno="8922" url="https://mlat.uzh.ch/browser?text=8922%26focus=8922:5.1;54">8922:5.1;54,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3899" url="https://mlat.uzh.ch/browser?path=3899">De universo</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>De universo - LIBER TERTIUS. - CAPUT PRIMUM.</position>
+      <text>
+        <sentence parent_pid="8922:5.1;54" n="1">Abia, qui interpretatur pater Dominus, vel pater
+
+fuit, typum tenet scribarum et Pharisaeorum, qui
+videbantur regere Judaicum populum, sed paternitatem
+ac dignitatem nominis sui perdiderunt.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="142">
+    <pid text_idno="8913" url="https://mlat.uzh.ch/browser?text=8913%26focus=8913:174;4">8913:174;4,2</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3890" url="https://mlat.uzh.ch/browser?path=3890">Homiliae</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA CII. IN EODEM FESTO. Lectio sancti Evangelii secundum Lucam.</position>
+      <text>
+        <sentence parent_pid="8913:174;4" n="2"> Viginti quatuor de sacerdotibus ordines
+in ministerio domus Domini sorte a Salomone
+sunt divisi, in quibus Abia familiae, de qua Zacharias
+ortus est, sors contigit octava.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="143">
+    <pid text_idno="8913" url="https://mlat.uzh.ch/browser?text=8913%26focus=8913:174;4">8913:174;4,1</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3890" url="https://mlat.uzh.ch/browser?path=3890">Homiliae</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA CII. IN EODEM FESTO. Lectio sancti Evangelii secundum Lucam.</position>
+      <text>
+        <sentence parent_pid="8913:174;4" n="1">De vice Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="144">
+    <pid text_idno="8913" url="https://mlat.uzh.ch/browser?text=8913%26focus=8913:235;12">8913:235;12,32</pid>
+    <author cc_idno="1518" url="https://mlat.uzh.ch/browser?path=1518">Rabanus Maurus</author>
+    <work cc_idno="3890" url="https://mlat.uzh.ch/browser?path=3890">Homiliae</work>
+    <decisive_year>856</decisive_year>
+    <result>
+      <position>Homiliae - HOMILIA CLXIII. Initium sancti Evangelii secundum Matthaeum.</position>
+      <text>
+        <sentence parent_pid="8913:235;12" n="32"> Abia interpretatur pater Dominus, quia
+pater fuit populi, et bene fecit prius coram Domino;
+significat Christum: Nolite invocare patrem super
+terram, unus est Pater vester qui in coelis est.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="145">
+    <pid text_idno="10877" url="https://mlat.uzh.ch/browser?text=10877%26focus=10877:26;4">10877:26;4,164</pid>
+    <author cc_idno="2195" url="https://mlat.uzh.ch/browser?path=2195">Rupertus Tuitiensis</author>
+    <work cc_idno="5838" url="https://mlat.uzh.ch/browser?path=5838">Commentaria in duodecim prophetas minores</work>
+    <decisive_year>1129</decisive_year>
+    <result>
+      <position>Commentaria in duodecim prophetas minores - IN NAUM PROPHETAM COMMENTARIORUM LIBER PRIMUS.</position>
+      <text>
+        <sentence parent_pid="10877:26;4" n="164">
+Non dubium esse debet quin inter caeteros
+hostes maxime decem tribus invidentes fuerint tribui
+Juda et domui David, eo quod spem habentes in
+verbo promissionis de domo illa vel tribu adimplendae,
+
+gloriari interdum soliti fuerint, dicendo aliqua
+hujusmodi ad reges Samariae, et omnem Israel, ut
+Abia rex Juda quondam dixit: Num ignoratis quod
+Dominus Deus Israel regnum dederit David super
+Israel in sempiternum, ipsi et filiis ejus in pactum
+solis?</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="146">
+    <pid text_idno="10885" url="https://mlat.uzh.ch/browser?text=10885%26focus=10885:6.20;2">10885:6.20;2,14</pid>
+    <author cc_idno="2195" url="https://mlat.uzh.ch/browser?path=2195">Rupertus Tuitiensis</author>
+    <work cc_idno="5846" url="https://mlat.uzh.ch/browser?path=5846">De victoria Verbi Dei</work>
+    <decisive_year>1129</decisive_year>
+    <result>
+      <position>De victoria Verbi Dei - LIBER QUINTUS - CAPUT XX.</position>
+      <text>
+        <sentence parent_pid="10885:6.20;2" n="14"> Primus Jeroboam rex Israel
+pugnabat contra Abia regem Juda, et ille stans super
+montem:  « Audi, inquit, Jeroboam, et omnis Israel!</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="147">
+    <pid text_idno="8732" url="https://mlat.uzh.ch/browser?text=8732%26focus=8732:137;4">8732:137;4,2</pid>
+    <author cc_idno="1469" url="https://mlat.uzh.ch/browser?path=1469">Smaragdus S. Michaelis</author>
+    <work cc_idno="3709" url="https://mlat.uzh.ch/browser?path=3709">Collectiones in epistolas et evangelia</work>
+    <decisive_year>840</decisive_year>
+    <result>
+      <position>Collectiones in epistolas et evangelia - EVANGELIUM LUCAE, CAP. I.</position>
+      <text>
+        <sentence parent_pid="8732:137;4" n="2"> Viginti quatuor de sacerdotibus ordines
+in ministerio domus Domini sorte a Salomone
+sunt divisi, in quibus Abia familiae, de qua Zacharias
+ortus est, sors contigit octava.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="148">
+    <pid text_idno="8732" url="https://mlat.uzh.ch/browser?text=8732%26focus=8732:137;4">8732:137;4,1</pid>
+    <author cc_idno="1469" url="https://mlat.uzh.ch/browser?path=1469">Smaragdus S. Michaelis</author>
+    <work cc_idno="3709" url="https://mlat.uzh.ch/browser?path=3709">Collectiones in epistolas et evangelia</work>
+    <decisive_year>840</decisive_year>
+    <result>
+      <position>Collectiones in epistolas et evangelia - EVANGELIUM LUCAE, CAP. I.</position>
+      <text>
+        <sentence parent_pid="8732:137;4" n="1">De vice Abia.</sentence>
+      </text>
+    </result>
+  </search_result>
+  <search_result n="149">
+    <pid text_idno="8732" url="https://mlat.uzh.ch/browser?text=8732%26focus=8732:137;2">8732:137;2,1</pid>
+    <author cc_idno="1469" url="https://mlat.uzh.ch/browser?path=1469">Smaragdus S. Michaelis</author>
+    <work cc_idno="3709" url="https://mlat.uzh.ch/browser?path=3709">Collectiones in epistolas et evangelia</work>
+    <decisive_year>840</decisive_year>
+    <result>
+      <position>Collectiones in epistolas et evangelia - EVANGELIUM LUCAE, CAP. I.</position>
+      <text>
+        <sentence parent_pid="8732:137;2" n="1"> « Fuit in diebus Herodis regis Judaeae sacerdos
+quidam nomine Zacharias, de vice Abia, et uxor
+illi de filiabus Aaron, et nomen ejus Elizabet.</sentence>
+      </text>
+    </result>
+  </search_result>
+</search_results></sphinx_search>
